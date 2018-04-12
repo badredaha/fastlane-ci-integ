@@ -1,0 +1,18 @@
+[
+  {
+    "id": "6645b876-b7c5-42af-a5fd-6a3d8535769f",
+    "email": "badre.daha@gmail.com",
+    "password_hash": "$2a$10$Na/CKiAEQrCOPIkZxZvEc.Mgym57Uf7P6CHgJDDuWWwYEoJdBbpBO",
+    "provider_credentials": [
+      {
+        "id": "3d4c088d-e0d4-47bb-ac03-440e7ec05144",
+        "email": "badre.daha@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "jJosUCgjiddyfbPlo5Vusb6vKwDBMbyouBhsIK3k3I5qjGep6bt9uENFPE0C\nljgzIZ2B9G2PEpJ9EIWRlOv8eQ==\n"
+      }
+    ]
+  }
+]
